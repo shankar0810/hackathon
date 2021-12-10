@@ -1,0 +1,12 @@
+.maindiv{
+    border: 2px solid black;
+    width: 50vw;
+    height: 35vh;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.maindiv button{
+    margin-left: 20%;
+    margin-top: 15%;
+    padding: 20px;
+}
